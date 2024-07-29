@@ -1,0 +1,15 @@
+@import "global/fonts.css";
+@import "global/reboot.css";
+@import "global/container.css";
+@import "blocks/header.css";
+@import "blocks/page-content.css";
+@import "blocks/footer.css";
+
+/* подключение блока site в общий стиль  */
+@import "global/blocks/site.css";
+
+/* подключение блока info-banner в общий стиль  */
+@import "global/blocks/info-banner.css";
+
+/* подключение блока css/global/blocks/advantages-block в общий стиль  */
+@import "global/blocks/advantages-block.css";

@@ -1,0 +1,25 @@
+/* 
+подключение шрифтов: 
+fonts/IBMPlexSans-ExtraLight.woff2 
+fonts/IBMPlexSans-ExtraLight.woff
+*/
+@font-face {
+    font-family: "fonts/IBMPlexSans-ExtraLight.woff2";
+    src: url("../global/fonts.css") format("woff2");
+
+    font-family: "fonts/IBMPlexSans-ExtraLight.woff";
+    src: url("../global/fonts.css") format("woff");
+}
+
+/* 
+подключение шрифтов: 
+fonts/IBMPlexSans-Light.woff2
+fonts/IBMPlexSans-Light.woff
+*/
+@font-face {
+    font-family: "fonts/IBMPlexSans-Light.woff2";
+    src: url("../global/fonts.css") format("woff2");
+
+    font-family: "fonts/IBMPlexSans-Light.woff";
+    src: url("../global/fonts.css") format("woff");
+}
